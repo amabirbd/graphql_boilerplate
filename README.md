@@ -1,5 +1,8 @@
 # Graphql boilerplate
+## Install packages
+
+`yarn install`
 
 ## run the project
 
-`lerna run dev`
+`npx lerna run dev`
